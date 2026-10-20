@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://022.eu/" target="_blank" rel="noopener noreferrer">
-    <img width="180" src="https://022.eu/favicon.svg" alt="022 Media Logo">
+    <img width="180" src="https://022.eu/wp-content/uploads/2026/02/Logo-022-Schwarz-SVG.svg" alt="022 Media Logo">
   </a>
 </p>
 
